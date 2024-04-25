@@ -1,8 +1,8 @@
 ---
-
 When adding a new marker, you must do 2 things:
 - Add the image that will appear alongside the marker. The picture will be stored under `public/photos`, in a folder named after your GitHub username. As an example, you'll find my own one in `public/photos/JuditKaramazov`.
 - Edit the `places.ts` file under the `data` folder with an entry containing the following information:
+
 ```ts
 {
     author: '...', // First and last name. A list of people can be added as well, in case several peeps were involved (as an example, due to a trip or visit).
@@ -18,7 +18,7 @@ When adding a new marker, you must do 2 things:
 }
 ```
 
-> [!NOTE]
+> **Note**:
 > The information followed by '?' (like 'title?' or 'streetview?') is optional, which means that adding it (or not) is completely up to you. The rest of the fields are mandatory.
 
 The available pin types are:
@@ -28,9 +28,8 @@ The available pin types are:
 - Picture
 - Missing
   
-> [!NOTE]
+> **Note**:
 > The 'Missing' pin should be manually updated, in case you revisited a marker and realized it's now missing.
-
 ---
 
 > Although you'll find detailed information in the [HOWTO file](https://github.com/JuditKaramazov/blob/main/HOWTO.md), this is a mere orientation to make some guidelines immediately available for you.
