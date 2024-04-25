@@ -71,7 +71,7 @@ You are good to go! However, since this repository is meant to become a "shootin
 
 1. How to [run the project on your local machine](CONTRIBUTING.md) for development and testing purposes. It will definitely help you get started!
 
-2. How to create a pull request in order to add a new marker. There's an [issue template available!](https://github.com/JuditKaramazov/TakeYouThere/issues/)
+2. How to create a pull request in order to add a new marker. There's an [issue template available!](https://github.com/JuditKaramazov/TakeYouThere/edit/main/.github/PULL_REQUEST_TEMPLATE/marker.md)
 
 > [!TIP]
 > Whatever you decide to do, please remember to respect the [Code of Conduct](CODE_OF_CONDUCT.md) while interacting with the project and the platform itself. Thank you so much for your time and patience!
@@ -112,7 +112,7 @@ As stated in the initial section, I provided some extra guidelines allowing user
 
 1. **Setup and development commands** (_starting the development server, testing, linting..._) -> ⚙️ available [here](CONTRIBUTING.md).
 
-2. **Pull request template** -> 📝 available [here](https://github.com/JuditKaramazov/TakeYouThere/issues/).
+2. **Pull request template** -> 📝 available [here](https://github.com/JuditKaramazov/TakeYouThere/edit/main/.github/PULL_REQUEST_TEMPLATE/marker.md).
 
 3. **Fork, clone, add pins, and submit your changes**: _how to_ -> 📚 available [here](/HOWTO.md).
 
@@ -203,7 +203,7 @@ At the same time, even though I didn't have in mind a dark theme for the app at 
 
 Now, the question: _"How does it work, Judit?"_ In this case, and since I wanted to show my co-author, `@AuNedelec`, the terrible side of `development environments`, `Git`, `GitHub`, and the never-ending amalgam of code we must face day after day, `all the additions and changes are controlled through the interaction with this repository`. 
 
-As I previously expressed in the [pull request guidelines](https://github.com/JuditKaramazov/TakeYouThere/issues/), there are two essential steps for people to contribute:
+As I previously expressed in the [pull request guidelines](https://github.com/JuditKaramazov/TakeYouThere/edit/main/.github/PULL_REQUEST_TEMPLATE/marker.md), there are two essential steps for people to contribute:
 
 1. First, you'll have to add the image that will appear alongside the marker. The picture will be stored under `public/photos`, in a folder named after your GitHub username. As an example: `public/photos/JuditKaramazov`.
 
