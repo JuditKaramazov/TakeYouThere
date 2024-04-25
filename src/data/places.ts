@@ -24,6 +24,17 @@ export const PLACES: IPin[] = [
   {
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
+    title: 'Roca Umbert',
+    type: EPinType.Coffee,
+    city: 'Granollers',
+    country: 'Spain',
+    coordinates: [41.6029684, 2.2863132],
+    date: '2024-02-01',
+    photo: '/photos/JuditKaramazov/granollers-roca.jpg'
+  },
+  {
+    author: 'Judit Lázaro',
+    username: 'JuditKaramazov',
     type: EPinType.Event,
     title: 'Fête des Lumières',
     city: 'Lyon',
