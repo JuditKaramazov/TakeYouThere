@@ -46,6 +46,16 @@ export const PLACES: IPin[] = [
   {
     author: 'Auregan Nedelec',
     username: 'AuNedelec',
+    type: EPinType.Picture,
+    city: 'Paris',
+    country: 'France',
+    coordinates: [48.85785675048828, 2.3009138107299805],
+    date: '2024-05-03',
+    photo: '/photos/AuNedelec/paris-eiffel.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
     type: EPinType.Coffee,
     title: 'Le Triomphe',
     city: 'Paris',
