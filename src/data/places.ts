@@ -44,6 +44,17 @@ export const PLACES: IPin[] = [
     photo: '/photos/JuditKaramazov/mataro.jpg'
   },
   {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Coffee,
+    title: 'Le Triomphe',
+    city: 'Paris',
+    country: 'France',
+    coordinates: [48.84734344482422, 2.395885944366455],
+    date: '2024-05-03',
+    photo: '/photos/AuNedelec/paris.jpg'
+  },
+  {
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
     type: EPinType.Picture,
