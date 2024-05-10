@@ -46,6 +46,17 @@ export const PLACES: IPin[] = [
   {
     author: 'Auregan Nedelec',
     username: 'AuNedelec',
+    type: EPinType.Coffee,
+    title: 'Can Margarit',
+    city: 'Mataró',
+    country: 'Spain',
+    coordinates: [40.741895, -73.989308],
+    date: '2024-05-6',
+    photo: '/photos/AuNedelec/can_margarit_mataro.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
     type: EPinType.Picture,
     city: 'Paris',
     country: 'France',
