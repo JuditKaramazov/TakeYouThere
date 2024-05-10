@@ -4,6 +4,17 @@ export const PLACES: IPin[] = [
   {
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
+    type: EPinType.Coffee,
+    title : 'La Central',
+    city: 'Barcelona',
+    country: 'Spain',
+    coordinates: [41.38331985473633, 2.168530225753784],
+    date: '2024-02-08',
+    photo: '/photos/JuditKaramazov/barcelona-la-central.jpg'
+  },
+  {
+    author: 'Judit Lázaro',
+    username: 'JuditKaramazov',
     type: EPinType.Home,
     city: 'Engelhartszell an der Donau',
     country: 'Austria',
