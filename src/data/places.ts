@@ -27,9 +27,9 @@ export const PLACES: IPin[] = [
     type: EPinType.Picture,
     city: 'Krakóv',
     country: 'Poland',
-    coordinates: [50.0619474, 19.9368564],
+    coordinates: [50.049683, 19.944544],
     date: '2022-06-04',
-    photo: '/photos/AuNedelec/krakow.jpg'
+    photo: '/photos/AuNedelec/krakow.jpeg'
   },
   {
     author: 'Auregan Nedelec',
@@ -38,9 +38,9 @@ export const PLACES: IPin[] = [
     title : 'Europeska',
     city: 'Krakóv',
     country: 'Poland',
-    coordinates: [50.0628889,19.936369],
+    coordinates: [50.062374114990234, 19.9366512298584],
     date: '2022-06-04',
-    photo: '/photos/AuNedelec/europeska_krakow.jpg'
+    photo: '/photos/AuNedelec/europeska_krakow.jpeg'
   },
   {
     author: 'Judit Lázaro',
