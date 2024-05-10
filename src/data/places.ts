@@ -22,6 +22,27 @@ export const PLACES: IPin[] = [
     photo: '/photos/JuditKaramazov/granollers.jpg'
   },
   {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Picture,
+    city: 'Krakóv',
+    country: 'Poland',
+    coordinates: [50.0619474, 19.9368564],
+    date: '2022-06-04',
+    photo: '/photos/AuNedelec/krakow.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Coffee,
+    title : 'Europeska',
+    city: 'Krakóv',
+    country: 'Poland',
+    coordinates: [50.0628889,19.936369],
+    date: '2022-06-04',
+    photo: '/photos/AuNedelec/europeska_krakow.jpg'
+  },
+  {
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
     type: EPinType.Event,
