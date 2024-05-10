@@ -25,6 +25,17 @@ export const PLACES: IPin[] = [
   {
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
+    type: EPinType.Event,
+    title: 'Schloss Ort',
+    city: 'Gmunden',
+    country: 'Austria',
+    coordinates: [47.911659240722656, 13.7923583984375],
+    date: '2022-01-16',
+    photo: '/photos/JuditKaramazov/gmunden.jpg'
+  },
+  {
+    author: 'Judit Lázaro',
+    username: 'JuditKaramazov',
     type: EPinType.Home,
     city: 'Granollers',
     country: 'Spain',
@@ -111,11 +122,42 @@ export const PLACES: IPin[] = [
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
     type: EPinType.Picture,
+    city: 'Passau',
+    country: 'Germany',
+    coordinates: [48.5748229, 13.4609744],
+    date: '2021-12-04',
+    photo: '/photos/JuditKaramazov/passau.jpg'
+  },
+  {
+    author: 'Judit Lázaro',
+    username: 'JuditKaramazov',
+    type: EPinType.Picture,
     city: 'Roma',
     country: 'Italy',
     coordinates: [41.889048, 12.492502],
     date: '2022-03-29',
     photo: '/photos/JuditKaramazov/roma-colosseo.jpg'
+  },
+  {
+    author: 'Judit Lázaro',
+    username: 'JuditKaramazov',
+    type: EPinType.Coffee,
+    title: 'Augustiner Bräu Mülln',
+    city: 'Salzburg',
+    country: 'Austria',
+    coordinates: [47.80522537231445, 13.032347679138184],
+    date: '2022-01-14',
+    photo: '/photos/JuditKaramazov/salzburg-augustiner.jpg'
+  },
+  {
+    author: 'Judit Lázaro',
+    username: 'JuditKaramazov',
+    type: EPinType.Picture,
+    city: 'Schärding',
+    country: 'Austria',
+    coordinates: [48.45577621459961, 13.431777954101562],
+    date: '2022-01-14',
+    photo: '/photos/JuditKaramazov/scharding.jpg'
   },
   {
     author: 'Judit Lázaro',
