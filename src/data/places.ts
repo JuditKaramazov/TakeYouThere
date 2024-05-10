@@ -50,8 +50,8 @@ export const PLACES: IPin[] = [
     title: 'Can Margarit',
     city: 'Mataró',
     country: 'Spain',
-    coordinates: [40.741895, -73.989308],
-    date: '2024-05-6',
+    coordinates: [41.53901672363281, 2.453969717025757],
+    date: '2024-05-06',
     photo: '/photos/AuNedelec/can_margarit_mataro.jpg'
   },
   {
