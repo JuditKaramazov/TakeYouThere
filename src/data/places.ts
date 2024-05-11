@@ -51,7 +51,7 @@ export const PLACES: IPin[] = [
     country: 'Poland',
     coordinates: [50.049683, 19.944544],
     date: '2022-06-04',
-    photo: '/photos/AuNedelec/krakow.jpeg'
+    photo: '/photos/AuNedelec/krakow.jpg'
   },
   {
     author: 'Auregan Nedelec',
@@ -62,7 +62,7 @@ export const PLACES: IPin[] = [
     country: 'Poland',
     coordinates: [50.062374114990234, 19.9366512298584],
     date: '2022-06-04',
-    photo: '/photos/AuNedelec/europeska_krakow.jpeg'
+    photo: '/photos/AuNedelec/europeska_krakow.jpg'
   },
   {
     author: 'Judit Lázaro',
@@ -74,6 +74,17 @@ export const PLACES: IPin[] = [
     coordinates: [45.7640, 4.8357],
     date: '2022-12-11',
     photo: '/photos/JuditKaramazov/lyon-fete-lumieres.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Coffee,
+    title : 'Lyon Particule',
+    city: 'Lyon',
+    country: 'France',
+    coordinates: [45.761122, 4.8280905],
+    date: '2022-09-18',
+    photo: '/photos/AuNedelec/lyon_particule.jpg'
   },
   {
     author: 'Judit Lázaro',
