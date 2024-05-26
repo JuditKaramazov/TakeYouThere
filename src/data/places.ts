@@ -24,6 +24,17 @@ export const PLACES: IPin[] = [
     photo: '/photos/AuNedelec/kahiki.jpg'
   },
   {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Coffee,
+    title : 'Les gens que j\'aime',
+    city: 'Barcelona',
+    country: 'Spain',
+    coordinates: [41.3888, 2.159],
+    date: '2024-05-25',
+    photo: '/photos/AuNedelec/les_gens_que_jaime.jpg'
+  },
+  {
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
     type: EPinType.Home,
