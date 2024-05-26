@@ -26,6 +26,17 @@ export const PLACES: IPin[] = [
   {
     author: 'Auregan Nedelec',
     username: 'AuNedelec',
+    type: EPinType.Event,
+    title : 'Museu Nacional d\'Art de Catalunya',
+    city: 'Montjuïc, Barcelona',
+    country: 'Spain',
+    coordinates: [41.36857223510742, 2.1534512042999268],
+    date: '2024-05-25',
+    photo: '/photos/AuNedelec/museum.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
     type: EPinType.Coffee,
     title : 'Les gens que j\'aime',
     city: 'Barcelona',
@@ -35,6 +46,8 @@ export const PLACES: IPin[] = [
     photo: '/photos/AuNedelec/les_gens_que_jaime.jpg'
   },
   {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
     type: EPinType.Picture,
     title : 'Castell de Montjuïc',
     city: 'Montjuïc, Barcelona',
