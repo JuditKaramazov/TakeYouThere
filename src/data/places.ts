@@ -35,6 +35,15 @@ export const PLACES: IPin[] = [
     photo: '/photos/AuNedelec/les_gens_que_jaime.jpg'
   },
   {
+    type: EPinType.Picture,
+    title : 'Castell de Montjuïc',
+    city: 'Montjuïc, Barcelona',
+    country: 'Spain',
+    coordinates: [41.3687339, 2.1690936],
+    date: '2024-05-18',
+    photo: '/photos/AuNedelec/montjuic.jpg'
+  },
+  {
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
     type: EPinType.Home,
