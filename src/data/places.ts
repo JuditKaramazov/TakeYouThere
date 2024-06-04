@@ -23,6 +23,17 @@ export const PLACES: IPin[] = [
     date: '2024-05-18',
     photo: '/photos/AuNedelec/kahiki.jpg'
   },
+{
+  author: 'Auregan Nedelec',
+  username: 'AuNedelec',
+  type: EPinType.Coffee,
+  title : 'Mescladís del Pou',
+  city: 'Barcelona',
+  country: 'Spain',
+  coordinates: [41.3870865, 2.1803497],
+  date: '2024-06-04',
+  photo: '/photos/AuNedelec/mescladis_del_pou.jpg'
+},
   {
     author: 'Auregan Nedelec',
     username: 'AuNedelec',
