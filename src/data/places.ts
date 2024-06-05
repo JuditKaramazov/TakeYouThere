@@ -226,6 +226,17 @@ export const PLACES: IPin[] = [
     photo: '/photos/JuditKaramazov/scharding.jpg'
   },
   {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Coffee,
+    title : 'Mont Roig Café',
+    city: 'Sitges',
+    country: 'Spain',
+    coordinates: [41.23596954345703, 1.806681752204895],
+    date: '2024-06-05',
+    photo: '/photos/AuNedelec/mont_roig_cafe.jpg'
+  },
+  {
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
     type: EPinType.Picture,
