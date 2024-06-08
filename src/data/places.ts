@@ -15,6 +15,17 @@ export const PLACES: IPin[] = [
   {
     author: 'Auregan Nedelec',
     username: 'AuNedelec',
+    type: EPinType.Picture,
+    title : 'Parque de la Ciutadella',
+    city: 'Barcelona',
+    country: 'Spain',
+    coordinates: [41.383941650390625, 2.1787397861480713],
+    date: '2024-06-04',
+    photo: '/photos/AuNedelec/la_ciutadella.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
     type: EPinType.Coffee,
     title : 'Kahiki',
     city: 'Barcelona',
@@ -97,6 +108,17 @@ export const PLACES: IPin[] = [
     coordinates: [41.598167419433594, 2.283038854598999],
     date: '2024-04-07',
     photo: '/photos/JuditKaramazov/granollers.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Coffee,
+    title : "Palo Santo",
+    city: 'Granollers',
+    country: 'Spain',
+    coordinates: [41.6047293, 2.2863076],
+    date: '2024-06-01',
+    photo: '/photos/AuNedelec/palo_santo.jpg'
   },
   {
     author: 'Auregan Nedelec',
@@ -235,6 +257,17 @@ export const PLACES: IPin[] = [
     coordinates: [41.23596954345703, 1.806681752204895],
     date: '2024-06-05',
     photo: '/photos/AuNedelec/mont_roig_cafe.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Coffee,
+    title : 'La formatgeria de Sitges',
+    city: 'Sitges',
+    country: 'Spain',
+    coordinates: [41.2375727,1.8113308],
+    date: '2024-06-05',
+    photo: '/photos/AuNedelec/la_formatgeria.jpg'
   },
   {
     author: 'Judit Lázaro',
