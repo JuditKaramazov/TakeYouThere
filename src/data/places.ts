@@ -70,6 +70,17 @@ export const PLACES: IPin[] = [
   {
     author: 'Auregan Nedelec',
     username: 'AuNedelec',
+    type: EPinType.Coffee,
+    title : 'Hidden Coffee Roasters',
+    city: 'Barcelona',
+    country: 'Spain',
+    coordinates: [41.38291931152344, 2.1822259426116943],
+    date: '2024-06-10',
+    photo: '/photos/AuNedelec/hidden_coffee_roasters.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
     type: EPinType.Picture,
     title : 'Castell de Montjuïc',
     city: 'Montjuïc, Barcelona',
