@@ -1,6 +1,18 @@
 import { IPin, EPinType } from 'src/lib/types'
 
 export const PLACES: IPin[] = [
+  
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Event,
+    title : 'Aquàrium Barcelona',
+    city: 'Barcelona',
+    country: 'Spain',
+    coordinates: [41.3770228,2.1844112],
+    date: '2024-06-10',
+    photo: '/photos/AuNedelec/aquarium-bcn.jpg'
+  },
   {
     author: 'Judit Lázaro',
     username: 'JuditKaramazov',
