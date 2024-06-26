@@ -71,6 +71,7 @@ where `<branch>` is, of course, the name of your branch (creative, isn't it?).
 - `EPinType.Home` - Places where you've been living - or your one and only home!
 - `EPinType.Picture` - Places you traveled to.
 - `EPinType.Missing` - After revisiting a pin, you realized that the sticker is now missing...
+- `EPinType.Goal` - Wishlist time? Let everyone know there are places you'd love to visit!
 
 **Check out this example:**
 
