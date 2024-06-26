@@ -146,6 +146,16 @@ export const PLACES: IPin[] = [
   {
     author: 'Auregan Nedelec',
     username: 'AuNedelec',
+    type: EPinType.Goal,
+    city: 'Helsinki',
+    country: 'Finland',
+    coordinates: [60.1674881, 24.9427473],
+    date: '2024-06-26',
+    photo: '/photos/default/goal-photo.jpg'
+  },
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
     type: EPinType.Picture,
     city: 'Krakóv',
     country: 'Poland',
@@ -301,5 +311,5 @@ export const PLACES: IPin[] = [
     coordinates: [45.5256, 4.8743],
     date: '2022-12-08',
     photo: '/photos/JuditKaramazov/vienne-saint-maurice.jpg'
-  }
+  },
 ]

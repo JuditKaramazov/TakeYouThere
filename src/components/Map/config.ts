@@ -45,5 +45,10 @@ export const DEFAULT_FILTERS: IFilter[] = [
     name: 'Missing',
     type: 'missing',
     checked: true
+  },
+  {
+    name: 'Goal',
+    type: 'goal',
+    checked: true
   }
 ]

@@ -5,7 +5,8 @@ export enum EPinType {
   Event = 'event',
   Home = 'home',
   Picture = 'picture',
-  Missing = 'missing'
+  Missing = 'missing',
+  Goal = 'goal'
 }
 
 export interface IPin {
