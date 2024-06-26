@@ -161,6 +161,7 @@ Here, you'll find the `nomenclature`, `visual aspect`, and `description` for all
 | <img src="./public/images/markers/home-image.png" alt="Home marker." width=30 height=30> `EPinType.Home`      | Places where you've been living - or your one and only home!                      |
 | <img src="./public/images/markers/picture-image.png" alt="Picture marker." width=30 height=30> `EPinType.Picture` | Places you traveled to. |
 | <img src="./public/images/markers/missing-image.png" alt="Missing marker." width=30 height=30> `EPinType.Missing` | After revisiting a pin, you realized that the sticker is now missing... |
+| <img src="./public/images/markers/goal-image.png" alt="Goal marker." width=30 height=30> `EPinType.Goal` | Wishlist time? Let everyone know there are places you'd love to visit! |
 
 
 ### 🌓 Light & dark themes
