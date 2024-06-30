@@ -30,7 +30,7 @@ The available pin types are:
 - Goal
   
 > **Note**:
-> The 'Missing' pin should be manually updated, in case you revisited a marker and realized it's now missing. As for the 'Goal' pin, there's a [default folder](/public/photos/default) containing its [unique image](/public/photos/default/goal-photo.jpg)!
+> The 'Missing' pin should be manually updated, in case you revisited a marker and realized it's now missing. As for the 'Goal' pin, there's a default folder (`/public/photos/default`) containing its unique image (`/public/photos/default/goal-photo.jpg`)!
 ---
 
 > Although you'll find detailed information in the [HOWTO file](https://github.com/JuditKaramazov/blob/main/HOWTO.md), this is a mere orientation to make some guidelines immediately available for you.
