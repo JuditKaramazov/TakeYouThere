@@ -42,7 +42,7 @@ export const PLACES: IPin[] = [
     title : 'Kahiki',
     city: 'Barcelona',
     country: 'Spain',
-    coordinates: [41.3888, 2.159],
+    coordinates: [41.38510513305664, 2.1625702381134033],
     date: '2024-05-18',
     photo: '/photos/AuNedelec/kahiki.jpg'
   },
@@ -75,7 +75,7 @@ export const PLACES: IPin[] = [
     title : 'Les gens que j\'aime',
     city: 'Barcelona',
     country: 'Spain',
-    coordinates: [41.3888, 2.159],
+    coordinates: [41.39382553100586, 2.16481614112854],
     date: '2024-05-25',
     photo: '/photos/AuNedelec/les_gens_que_jaime.jpg'
   },
