@@ -48,6 +48,7 @@ export default function Home() {
           name="msapplication-config"
           content="/favicon/browserconfig.xml"
         />
+        <meta name="google-site-verification" content="QabE4pgOKR5rQ45trqzVGARIOV6c3OB0FW_ZBUJtQqQ" />
       </Head>
       <Menu isOpen={isOpen} setOpen={setOpen} />
       <Sidebar
