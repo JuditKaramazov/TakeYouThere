@@ -312,4 +312,15 @@ export const PLACES: IPin[] = [
     date: '2022-12-08',
     photo: '/photos/JuditKaramazov/vienne-saint-maurice.jpg'
   },
+
+  {
+    author: 'Auregan Nedelec',
+    username: 'AuNedelec',
+    type: EPinType.Picture,
+    city: 'Voucher for a chill weekend in Annecy',
+    country: 'whenever the time will be right. 🫂',
+    coordinates: [45.8992, 6.1294],
+    date: '2025-02-08',
+    photo: '/photos/AuNedelec/annecy.png'
+  },
 ]
